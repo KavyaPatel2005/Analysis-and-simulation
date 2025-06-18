@@ -14,8 +14,6 @@ This project focuses on the **steady-state thermal analysis** of a **ventilated 
 - **Inner Diameter:** 20 mm
 - **Material:** Grey Cast Iron
 
-> Note: Mass properties are computed using SolidWorks's "Mass Properties" tool with all holes and cutouts included, giving an accurate physical mass for heat dissipation estimation.
-
 ###  Simulation Environment (ANSYS)
 
 - **Analysis Type:** Steady-State Thermal
@@ -24,6 +22,5 @@ This project focuses on the **steady-state thermal analysis** of a **ventilated 
   - **Radiation:** Emissivity = 1.0, Ambient Temp = 30°C
   - **Convection:** h = 25 W/m²·K on inner hole surfaces, Ambient Temp = 30°C
 
-This setup simulates the condition after active braking when the disc is hot and starts dissipating heat into the surroundings.
 
 ---
