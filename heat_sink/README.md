@@ -40,4 +40,3 @@ To compare thermal behavior of the heat sink in:
 
 ---
 
-> 📌 This project demonstrates the critical role of thermal loading type and material selection in heat sink performance optimization.
