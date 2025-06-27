@@ -14,6 +14,9 @@ A steady-state thermal analysis of a ventilated disc brake to study heat dissipa
 A simulation-based study of a passive aluminum heat sink under forced and natural convection conditions.
  [View Project](./heat_sink/)
 
+### Lower Control Arm Structural Analysis
+A finite element analysis of a vehicle's front lower control arm using AISI 1040 steel. The simulation investigates static structural behavior including deformation, stress, and safety factor under a load of 750 N.  
+[View Project](./control_arm/)
 ---
 
 ##  Tools Used
