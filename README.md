@@ -6,18 +6,18 @@ This repository contains a set of mechanical CAD and thermal simulation projects
 
 ##  Project List
 
-### Brake Disc Thermal Analysis
-A steady-state thermal analysis of a ventilated disc brake to study heat dissipation through convection and radiation.
+###  Brake Disc Thermal Analysis
+Steady-state thermal analysis of a ventilated disc brake to evaluate heat dissipation via convection and radiation.  
  [View Project](./brake_disc/)
 
-###  Heat Sink Thermal Analysis
-A simulation-based study of a passive aluminum heat sink under forced and natural convection conditions.
+### 🌡Heat Sink Thermal Analysis
+Comparative thermal simulation of a passive aluminum heat sink under uniform and localized heat loading using natural convection.  
  [View Project](./heat_sink/)
 
-### Lower Control Arm Structural Analysis
-A finite element analysis of a vehicle's front lower control arm using AISI 1040 steel. The simulation investigates static structural behavior including deformation, stress, and safety factor under a load of 750 N.  
-[View Project](./control_arm/)
----
+###  Lower Control Arm Structural Analysis
+Finite element analysis (FEA) of a vehicle’s front lower control arm using AISI 1040 steel. Assesses static deformation, equivalent stress, and factor of safety under a 750 N applied load.  
+ [View Project](./control_arm/)
+
 
 ##  Tools Used
 - Fusion 360,Solidworks (CAD modeling)
