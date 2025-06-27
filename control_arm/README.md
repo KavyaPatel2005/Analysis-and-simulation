@@ -6,7 +6,7 @@ This project involves the static structural analysis of a lower control arm of a
 
 ## Project List
 
-### [Stress & Deformation Analysis of Control Arm](./controlarmana.pdf)
+### Stress & Deformation Analysis of Control Arm
 A finite element analysis study on a front suspension lower control arm. The project investigates total deformation (max: **16.7 μm**) and factor of safety using AISI 1040 steel, with a 401 mm distance between mounting holes.
 
 ---
