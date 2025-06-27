@@ -10,7 +10,7 @@ This repository contains a set of mechanical CAD and thermal simulation projects
 Steady-state thermal analysis of a ventilated disc brake to evaluate heat dissipation via convection and radiation.  
  [View Project](./brake_disc/)
 
-### 🌡Heat Sink Thermal Analysis
+### Heat Sink Thermal Analysis
 Comparative thermal simulation of a passive aluminum heat sink under uniform and localized heat loading using natural convection.  
  [View Project](./heat_sink/)
 
