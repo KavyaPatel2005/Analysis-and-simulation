@@ -1,4 +1,4 @@
-## 🔧 Project Overview
+## Project Overview
 
 This project focuses on the **steady-state thermal analysis** of a **ventilated grey cast iron disc brake** using ANSYS 2025 R1. The primary objective is to simulate how the brake disc dissipates heat through conduction, radiation, and convection under realistic boundary conditions during braking.
 
